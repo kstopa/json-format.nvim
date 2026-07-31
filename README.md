@@ -15,7 +15,7 @@ Use your favorite plugin manager to install the plugin. For example, with `lazy.
 
 ```lua
 {
-    "osullivandonal/json-format",
+    "osullivandonal/json-format.nvim",
     config = function()
         require("json-format").setup()
     end,
